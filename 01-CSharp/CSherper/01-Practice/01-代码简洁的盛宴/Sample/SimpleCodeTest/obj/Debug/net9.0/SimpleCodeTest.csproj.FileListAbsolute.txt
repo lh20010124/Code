@@ -1,0 +1,14 @@
+D:\System\Desktop\Sample\SimpleCodeTest\bin\Debug\net9.0\SimpleCodeTest.exe
+D:\System\Desktop\Sample\SimpleCodeTest\bin\Debug\net9.0\SimpleCodeTest.deps.json
+D:\System\Desktop\Sample\SimpleCodeTest\bin\Debug\net9.0\SimpleCodeTest.runtimeconfig.json
+D:\System\Desktop\Sample\SimpleCodeTest\bin\Debug\net9.0\SimpleCodeTest.dll
+D:\System\Desktop\Sample\SimpleCodeTest\bin\Debug\net9.0\SimpleCodeTest.pdb
+D:\System\Desktop\Sample\SimpleCodeTest\obj\Debug\net9.0\SimpleCodeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\System\Desktop\Sample\SimpleCodeTest\obj\Debug\net9.0\SimpleCodeTest.AssemblyInfoInputs.cache
+D:\System\Desktop\Sample\SimpleCodeTest\obj\Debug\net9.0\SimpleCodeTest.AssemblyInfo.cs
+D:\System\Desktop\Sample\SimpleCodeTest\obj\Debug\net9.0\SimpleCodeTest.csproj.CoreCompileInputs.cache
+D:\System\Desktop\Sample\SimpleCodeTest\obj\Debug\net9.0\SimpleCodeTest.dll
+D:\System\Desktop\Sample\SimpleCodeTest\obj\Debug\net9.0\refint\SimpleCodeTest.dll
+D:\System\Desktop\Sample\SimpleCodeTest\obj\Debug\net9.0\SimpleCodeTest.pdb
+D:\System\Desktop\Sample\SimpleCodeTest\obj\Debug\net9.0\SimpleCodeTest.genruntimeconfig.cache
+D:\System\Desktop\Sample\SimpleCodeTest\obj\Debug\net9.0\ref\SimpleCodeTest.dll

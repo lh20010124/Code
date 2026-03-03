@@ -23,7 +23,6 @@ namespace Sample1
         public MainWindow()
         {
             InitializeComponent();
-            InitializeComponent();
             // 只有这一行代码是必须的
             this.DataContext = new MainViewModel();
         }

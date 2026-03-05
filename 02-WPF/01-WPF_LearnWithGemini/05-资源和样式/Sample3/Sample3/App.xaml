@@ -4,6 +4,9 @@
              xmlns:local="clr-namespace:Sample3"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <SolidColorBrush x:Key="LightModeBackground" Color="LightBlue"/>
+            <SolidColorBrush x:Key="DarkModeBackground" Color="DarkRed"/>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

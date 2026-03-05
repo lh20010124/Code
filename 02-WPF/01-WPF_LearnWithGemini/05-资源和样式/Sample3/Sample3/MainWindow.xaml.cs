@@ -23,6 +23,21 @@ namespace Sample3
         public MainWindow()
         {
             InitializeComponent();
+            this.DataContext = new MainViewModel();
+        }
+
+        private void ChangeColor_CLick(object sender, RoutedEventArgs e)
+        {
+            var res = Application.Current.Resources;
+
+            if (((SolidColorBrush)res["LightModeBackground"]).Color == Colors.LightBlue)
+            {
+                res["LightModeBackground"] = new SolidColorBrush(Colors.DarkRed);
+            }
+            else
+            {
+                res["LightModeBackground"] = new SolidColorBrush(Colors.LightBlue);
+            }
         }
     }
 }

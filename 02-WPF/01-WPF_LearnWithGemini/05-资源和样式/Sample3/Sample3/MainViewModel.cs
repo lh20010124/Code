@@ -1,5 +1,6 @@
 ﻿
 
+using System;
 using System.Collections.ObjectModel;
 using System.Windows.Input;
 
@@ -15,7 +16,9 @@ namespace Sample3
             TodoList.Add(new TodoItem { Title = "1", IsCompleted = false, Priority = 1 });
             AddTaskCommand = new RelayCommand(_ =>
             {
-                var newTask = new TodoItem { Title = $"Task {TodoList.Count + 1}", IsCompleted = false, Priority = 1 };
+                Random rand = new Random();
+                int n = rand.Next(0, 3);
+                var newTask = new TodoItem { Title = $"Task {TodoList.Count + 1}", IsCompleted = false, Priority = n };
                 TodoList.Add(newTask);
             });
             DeleteTaskCommand = new RelayCommand(task =>

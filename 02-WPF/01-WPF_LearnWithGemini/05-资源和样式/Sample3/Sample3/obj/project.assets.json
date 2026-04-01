@@ -9,19 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\lh200\\.nuget\\packages\\": {},
-    "D:\\Software\\04-Code\\VisualStudio\\SDK\\NuGetPackages": {}
+    "D:\\Application\\03_Professional\\VS\\Component\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\05-资源和样式\\Sample3\\Sample3\\Sample3.csproj",
+      "projectUniqueName": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\05-资源和样式\\Sample3\\Sample3\\Sample3.csproj",
       "projectName": "Sample3",
-      "projectPath": "D:\\System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\05-资源和样式\\Sample3\\Sample3\\Sample3.csproj",
+      "projectPath": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\05-资源和样式\\Sample3\\Sample3\\Sample3.csproj",
       "packagesPath": "C:\\Users\\lh200\\.nuget\\packages\\",
-      "outputPath": "D:\\System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\05-资源和样式\\Sample3\\Sample3\\obj\\",
+      "outputPath": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\05-资源和样式\\Sample3\\Sample3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Software\\04-Code\\VisualStudio\\SDK\\NuGetPackages"
+        "D:\\Application\\03_Professional\\VS\\Component\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\lh200\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

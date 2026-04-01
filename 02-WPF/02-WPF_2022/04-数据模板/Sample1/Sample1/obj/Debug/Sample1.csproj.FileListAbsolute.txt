@@ -1,0 +1,16 @@
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\bin\Debug\Sample1.exe.config
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\bin\Debug\Sample1.exe
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\bin\Debug\Sample1.pdb
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\Sample1.csproj.AssemblyReference.cache
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\MainWindow.g.cs
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\App.g.cs
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\Sample1_MarkupCompile.cache
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\Sample1_MarkupCompile.lref
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\MainWindow.baml
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\Sample1.g.resources
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\Sample1.Properties.Resources.resources
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\Sample1.csproj.GenerateResource.cache
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\Sample1.csproj.CoreCompileInputs.cache
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\Sample1.exe
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\Sample1.pdb
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\04-数据模板\Sample1\Sample1\obj\Debug\Sample1.exe.config

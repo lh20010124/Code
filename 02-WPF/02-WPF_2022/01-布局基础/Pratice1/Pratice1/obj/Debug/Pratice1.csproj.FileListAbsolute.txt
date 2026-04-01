@@ -1,0 +1,16 @@
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\bin\Debug\Pratice1.exe.config
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\bin\Debug\Pratice1.exe
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\bin\Debug\Pratice1.pdb
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\Pratice1.csproj.AssemblyReference.cache
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\MainWindow.g.cs
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\App.g.cs
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\Pratice1_MarkupCompile.cache
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\Pratice1_MarkupCompile.lref
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\MainWindow.baml
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\Pratice1.g.resources
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\Pratice1.Properties.Resources.resources
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\Pratice1.csproj.GenerateResource.cache
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\Pratice1.csproj.CoreCompileInputs.cache
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\Pratice1.exe
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\Pratice1.pdb
+D:\PC_System\Desktop\StudyPlace\01-Code\02-WPF\02-WPF_2022\01-布局基础\Pratice1\Pratice1\obj\Debug\Pratice1.exe.config

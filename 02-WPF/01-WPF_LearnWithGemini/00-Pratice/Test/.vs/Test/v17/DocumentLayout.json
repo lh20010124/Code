@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|d:\\pc_system\\desktop\\studyplace\\01-code\\02-wpf\\01-wpf_learnwithgemini\\00-pratice\\test\\test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|solutionrelative:test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|d:\\pc_system\\desktop\\studyplace\\01-code\\02-wpf\\01-wpf_learnwithgemini\\00-pratice\\test\\test\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|solutionrelative:test\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|d:\\pc_system\\desktop\\studyplace\\01-code\\02-wpf\\01-wpf_learnwithgemini\\00-pratice\\test\\test\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|solutionrelative:test\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|d:\\pc_system\\desktop\\studyplace\\01-code\\02-wpf\\01-wpf_learnwithgemini\\00-pratice\\test\\test\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|solutionrelative:test\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|d:\\pc_system\\desktop\\studyplace\\01-code\\02-wpf\\01-wpf_learnwithgemini\\00-pratice\\test\\test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|solutionrelative:test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|d:\\pc_system\\desktop\\studyplace\\01-code\\02-wpf\\01-wpf_learnwithgemini\\00-pratice\\test\\test\\taskstatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|solutionrelative:test\\taskstatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|d:\\pc_system\\desktop\\studyplace\\01-code\\02-wpf\\01-wpf_learnwithgemini\\00-pratice\\test\\test\\prioritycolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1A5907-AE42-43B3-811C-1DE653925307}|Test\\Test.csproj|solutionrelative:test\\prioritycolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Test\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Test\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T03:40:05.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskStatusConverter.cs",
+              "DocumentMoniker": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\TaskStatusConverter.cs",
+              "RelativeDocumentMoniker": "Test\\TaskStatusConverter.cs",
+              "ToolTip": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\TaskStatusConverter.cs",
+              "RelativeToolTip": "Test\\TaskStatusConverter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:48:18.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PriorityColorConverter.cs",
+              "DocumentMoniker": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\PriorityColorConverter.cs",
+              "RelativeDocumentMoniker": "Test\\PriorityColorConverter.cs",
+              "ToolTip": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\PriorityColorConverter.cs",
+              "RelativeToolTip": "Test\\PriorityColorConverter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:49:08.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Test\\RelayCommand.cs",
+              "ToolTip": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\RelayCommand.cs",
+              "RelativeToolTip": "Test\\RelayCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T03:46:04.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Test\\MainWindow.xaml",
+              "ToolTip": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\MainWindow.xaml",
+              "RelativeToolTip": "Test\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-20T03:40:07.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Test\\MainViewModel.cs",
+              "ToolTip": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\MainViewModel.cs",
+              "RelativeToolTip": "Test\\MainViewModel.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:19:36.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Test\\TodoItem.cs",
+              "ToolTip": "D:\\PC_System\\Desktop\\StudyPlace\\01-Code\\02-WPF\\01-WPF_LearnWithGemini\\00-Pratice\\Test\\Test\\TodoItem.cs",
+              "RelativeToolTip": "Test\\TodoItem.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:58:08.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
